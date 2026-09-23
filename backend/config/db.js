@@ -1,0 +1,1 @@
+mongodb+srv://<db_username>:Fd0P86k2BcxMijmB@medicalaicluster.5jdboyh.mongodb.net/?appName=medicalaicluster
